@@ -1,0 +1,60 @@
+ .content-wrapper {
+     margin-left: 40px;
+     margin-right: 40px;
+ }
+ 
+ 
+ .page-one-content {
+
+     width: 100%;
+     height: 974px;
+     display: flex;
+     justify-content: space-between;
+    
+}
+
+.purple-line {
+    background-color: blueviolet;
+    width: 802px;
+    height: 6px; 
+    margin-bottom: 40px;
+}
+
+.page-one-left {
+    width: 802px;
+    height: 671px;
+}
+
+.text {
+    width: 802px;
+    height: 425px;
+    background-color: #E5E5E5;
+    display: flex;
+    flex-direction: column
+
+}
+
+.bold {
+    width: 100px;
+    margin-left: 10px;
+    font-weight: 900;
+}
+
+.project-cat {
+display: flex;
+margin-top: 42px;
+}
+
+
+.page-one-right {
+    width: 495px;
+    height: 873px; 
+}
+
+.page-one-right img {
+    width: 450px;
+    height: 610px; 
+    object-fit: cover;
+}
+
+

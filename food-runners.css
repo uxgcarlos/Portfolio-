@@ -1,0 +1,272 @@
+
+
+h1 {
+    color: #ffb62e;
+}
+
+.flex-two-column a {
+    color: #844cfa;
+}
+.icons {
+    text-align: center;
+    color: #f3bd59;
+    font-size: 30px;
+    
+}
+.flex-two-column h3, .flex-two-column h2  {
+    text-align: center;
+}
+h2 {
+    color: #f3bd59;
+
+}
+
+.alexa-content-container {
+margin-left: 20px;
+margin-right: 20px;
+}
+
+
+.content-wrapper h1 {
+    text-align: center;  
+    margin-top: 50px;
+    
+ }
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    line-height: 30px;
+    align-items: left;
+    margin-top: 30px;
+}
+
+ 
+ 
+
+ .team-project-details {
+     align-content: center;
+ }
+
+ .team-project-details {
+     display: grid;
+     grid-template-columns: 2fr 1fr;
+ }
+
+ .team-project-details img {
+     width: 450px;
+     height:450px;
+    
+ }
+ .problem-and-solution {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+   
+    
+}
+
+ .flex-two-column {
+    width: 1000px;
+    height:200px;
+    line-height: 30px;
+   
+}
+
+.overview-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+}
+
+.overview-image {
+    width: 617px;
+    height:300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.overview-image img {
+    width: 350px;
+    height: 350px;
+    
+}
+
+.overview-text {
+    width: 617px;
+    height:300px;
+    line-height: 30px;
+   
+}
+
+.interview-wrapper {
+    line-height: 30px;
+} 
+/* archetype  */
+
+.archetype-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.archetype-image img {
+    width: 200px;
+    height: 200px;
+   
+
+}
+
+.archetype-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.needs-pains-title {
+    text-align: center;
+}
+
+.journey-mapping  {
+    width: 100%;
+    height: 500px;
+    
+}
+
+.website-analysis-wrapper {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* sketches  */
+
+#sketches {
+    width: 700px;
+    height: 400px;
+}
+
+.sketch-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 400px;
+   width: 100%;
+   margin: auto;
+   line-height: 30px;
+
+}
+
+.sketches-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* wire-frames */
+.wire-images-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: auto;
+    width: 100%;
+}
+
+.wire {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wire img {
+    width: 300px;
+    height: 300px;
+    
+}
+
+.key-insights {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 30px;
+}
+
+.key-insights-image {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.key-insights-image img {
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;    
+}
+
+.examples {
+    display: flex;
+    justify-content: space-between;
+}
+
+.example-text {
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    line-height: 30px;
+}
+
+
+.example-img {
+    width: 500px;
+    object-fit: cover;
+}
+
+.example-img img {
+    width: 500px
+}
+
+.journey-mapping {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.journey-mapping img {
+  width: 1000px;
+  height: 500px;
+}
+.wire-frames-image img {
+    width: 500px;
+    height: 500px;
+}
+
+.wire-frame-wrapper h3 {
+    margin-top: 70px;
+}
+
+.next {
+    display: flex;
+}
+
+.next-circle {
+    width: 50px;
+    height: 50px;
+    background-color: #844cfa;
+    display: flex;
+    flex-direction: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.next > .flex-two-column h2  {
+    color: black;
+    
+}
